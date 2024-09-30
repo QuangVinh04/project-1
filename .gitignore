@@ -3,3 +3,4 @@
 /project-1/*.classpath
 /project-1/target
 /project-1/.settings
+/*.gitignore
