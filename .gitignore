@@ -1,0 +1,5 @@
+/project-1/*.txt
+/project-1/*.project
+/project-1/*.classpath
+/project-1/target
+/project-1/.settings
